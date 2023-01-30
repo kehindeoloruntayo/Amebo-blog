@@ -6,13 +6,14 @@
 * _HTML_
 
 ## Contact
-Oloruntayo Kehinde
-07043741067
-kehindeoloruntayo1@gmail.com
+_NAME: Oloruntayo Kehinde_
+<br>
+* _PHONE: 07043741067_
+* _EMAIL: kehindeoloruntayo1@gmail.com_
 
 ## Security Problems
-No known bug
-Report any suspected security problem to the contact above.
+* _No known bug_
+* _Report any suspected security problem to the contact above._
 
 ## Notice
 Amebo blog contains pieces of source code that is copyright (c) 2023, Kehinde codes. This notice is included here to comply with the distribution terms.
