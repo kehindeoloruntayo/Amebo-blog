@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="/img/nigeria.webp">
+    <title>Login page</title>
+</head>
+<body style="background-color: aliceblue;">
+    <!--form header-->
+
+    <div class="logo" style="display: flex; gap: 20px; align-items: center;">
+        <div class="logo box" style="height: 35px; width: 35px; border-radius: 200px; background-color: blue; display: flex; align-items: center; color: beige;">AM</div>
+        <h3>Amebo Ltd</h3>
+    </div>
+    <div class="showcase" style="margin-left: 200px; margin-top: 50px;">
+        <header>
+            <h2>Getting Started</h2>
+        </header>
+
+        <p style="width: 450px; border-style: solid; border-radius: 1px; border-color: #001; height: 100px; width: 500px; padding: 10px;">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quisquam aliquam exercitationem rem cumque eligendi illum fugit dolores nam maxime fugiat distinctio minima ipsum nihil, beatae tenetur ullam, corrupti a commodi amet vero magni tempore? Magni, perferendis dolorum. Officia nostrum in consequatur, nesciunt repellendus molestiae beatae? Unde pariatur sit ut explicabo!</p>
+    </div>
+    
+    <div style="margin-left: 200px; margin-top: 50px; border-style: solid; border-radius: 1px; border-color: #001; height: 400px; width: 500px; padding: 30px;">
+        <form action="/index.html">
+            <label for="Name">Full Name
+                <br><input type="text" placeholder="Enter your name" maxlength="10" minlength="5" style="width: 500px; border-radius: 6px;">
+            </label> <br><br>
+            <label for="Password">Password
+                <br><input type="password" placeholder="Input your password" minlength="5" style="width: 500px; border-radius: 6px;">
+            </label> <br><br>
+            <label for="Age">Age
+                <br><input type="Age" placeholder="Enter your age" maxlength="2" minlength="1" style="width: 500px; border-radius: 6px;">
+            </label> <br><br>
+            <label for="Email">Email
+                <br><input type="email" placeholder="Enter your Email" required style="width: 500px; border-radius: 6px;">
+            </label> <br><br>
+            <label for="Country">Country
+                <br><select name="Country" id="Country" style="width: 500px; border-radius: 6px;">
+                    <option value="Argentina">Argentina</option>
+                    <option value="Australia">Australia</option>
+                    <option value="Brazil">Brazil</option>
+                    <option value="Belgium">Belgium</option>
+                    <option value="Canada">Canada</option>
+                    <option value="Croatia">Croatia</option>
+                    <option value="Denmark">Denmark</option>
+                    <option value="Egypt">Egypt</option>
+                    <option value="Ethiopia">Ethiopia</option>
+                    <option value="Finland">Finland</option>
+                    <option value="Ghana">Ghana</option>
+                    <option value="Netherland">Netherlands</option>
+                    <option value="Nigeria">Nigeria</option>
+                    <option value="United Kingdoms">United Kingdoms</option>
+                    <option value="USA">USA</option>
+                    </select>
+            </label> <br><br>
+            <!-- no transgender here, i am not putting that shit -->
+            <label for="gender">Gender
+                <br><label for="male">
+                <input type="radio" name="gender" value="male">
+                male </label>
+                <label for="Female">
+                <input type="radio" name="gender" value="Female" checked>
+                Female </label>
+            </label><br><br>
+            <input type="checkbox" name="agree" id="" required>
+            <label for="agree">i agree</label> <br><br>
+            <button>SUBMIT</button>
+        </form>
+    </div>
+</body>
+</html>
