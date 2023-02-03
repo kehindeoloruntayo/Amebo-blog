@@ -6,8 +6,7 @@
 * _HTML_
 
 ## Contact
-_NAME: Oloruntayo Kehinde_
-<br>
+* _NAME: Oloruntayo Kehinde_
 * _PHONE: 07043741067_
 * _EMAIL: kehindeoloruntayo1@gmail.com_
 
