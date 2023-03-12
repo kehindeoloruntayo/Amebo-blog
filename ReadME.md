@@ -2,7 +2,7 @@
 ### _Amebo blog is a website where you get your lastest breaking news, celebrity gossips, business news, foreign news and sport news_
 
 ## Technology used
-* _VSCode_
+* _GIT_
 * _HTML_
 * _CSS_
 
