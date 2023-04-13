@@ -1,5 +1,5 @@
-# _Project one_
-### _Project one is a website where you get your lastest breaking news, celebrity gossips, business news, foreign news and sport news_
+# _Amebo blog_
+### _Amebo blog is a website where you get your lastest breaking news, celebrity gossips, business news, foreign news and sport news_
 
 ## Technology used
 * _GIT_
@@ -16,4 +16,4 @@
 * _Report any suspected security problem to the contact above._
 
 ## Notice
-Project one contains pieces of source code that is copyright (c) 2023, MIT. This notice is included here to comply with the distribution terms.
+Amebo blog contains pieces of source code that is copyright (c) 2023, MIT. This notice is included here to comply with the distribution terms.
